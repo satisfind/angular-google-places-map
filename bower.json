@@ -6,7 +6,7 @@
   ],
   "main": [
       "./src/js/ngplacesmap.js",
-      "./dist/js/ngplacesmap.min.js"
+      "./dist/css/ngplacesmap.min.css"
   ],
   "repository": {
     "type": "git",
@@ -27,6 +27,6 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.3.x"
+    "angular": ">=1.3.x"
   }
 }
